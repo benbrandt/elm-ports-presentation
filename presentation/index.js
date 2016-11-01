@@ -538,18 +538,18 @@ main =
             </Heading>
             <Layout>
               <Fill>
-                <Heading margin="50px 0 0" size={6} textColor="quartenary">
+                <Heading margin="50px 0 30px" size={6} textColor="quartenary">
                   <Image margin="0" src={images.twitter}/> @benjaminbrandt
                 </Heading>
               </Fill>
               <Fill>
-                <Heading margin="50px 0 0" size={6} textColor="quartenary">
+                <Heading margin="50px 0 30px" size={6} textColor="quartenary">
                   <Image margin="0" src={images.github}/> benbrandt
                 </Heading>
               </Fill>
             </Layout>
-            <Link href="https://benbrandt.github.io/elm-ports-presentation ">benbrandt.github.io/elm-ports-presentation</Link>
-            <Link href="https://github.com/benbrandt/elm-audio-demo">github.com/benbrandt/elm-audio-demo</Link>
+            <Link textSize="2.5rem" textColor="tertiary" href="https://benbrandt.github.io/elm-ports-presentation ">benbrandt.github.io/elm-ports-presentation</Link><br/>
+            <Link textSize="2.5rem" textColor="tertiary" href="https://github.com/benbrandt/elm-audio-demo">github.com/benbrandt/elm-audio-demo</Link>
           </Slide>
         </Deck>
       </Spectacle>
