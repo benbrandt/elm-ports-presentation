@@ -548,6 +548,8 @@ main =
                 </Heading>
               </Fill>
             </Layout>
+            <Link href="https://benbrandt.github.io/elm-ports-presentation ">benbrandt.github.io/elm-ports-presentation</Link>
+            <Link href="https://github.com/benbrandt/elm-audio-demo">github.com/benbrandt/elm-audio-demo</Link>
           </Slide>
         </Deck>
       </Spectacle>
